@@ -1,0 +1,5 @@
+ls -l | awk '$5 > 2000 && $1 !~ /^d/ { print $NF }'
+ll | awk '$3 ~ /bertold/ && $4 !~ /bertold/'
+ll | awk '{ OFS = "|"; print $(NF - 1), $NF }'
+ll | awk '{ OFS = "] ["; print "[" $(NF - 1), $NF "]" }'
+ll | awk '$1 != prev { print; prev = $1 }'
