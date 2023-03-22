@@ -1,0 +1,243 @@
+Makowski,                 Marcin             Uczestnik opcjonalny      Odrzucone
+Sulińska,                 Julia              Uczestnik opcjonalny      Odrzucone
+Judasz,                   Justyna            Uczestnik opcjonalny      Odrzucone
+Bielawa,                  Tomasz             Uczestnik opcjonalny      Zaakceptowane
+Huntgeburth,              Jan                Uczestnik opcjonalny      Wstępna akceptacja
+Sawicka-Chęć,             Joanna             Uczestnik opcjonalny      Wstępna akceptacja
+Dąbrowska,                Emilia             Uczestnik opcjonalny      Zaakceptowane
+Zulfugarli,               Nadir              Uczestnik opcjonalny      Odrzucone
+Gorzycka,                 Dorota             Uczestnik opcjonalny      Zaakceptowane
+Fisz,                     Edyta              Uczestnik opcjonalny      Odrzucone
+Puchalski,                Mateusz            Uczestnik opcjonalny      Odrzucone
+Kulesza,                  Marcin             Uczestnik opcjonalny      Zaakceptowane
+Rudzki,                   Arnold             Uczestnik opcjonalny      Zaakceptowane
+Patury,                   Marcin             Uczestnik opcjonalny      Zaakceptowane
+Wolny,                    Tomasz             Uczestnik opcjonalny      Zaakceptowane
+Skotarczak,               Michał             Uczestnik opcjonalny      Zaakceptowane
+Jurek,                    Daria              Uczestnik opcjonalny      Zaakceptowane
+Sobisz,                   Joanna             Uczestnik opcjonalny      Zaakceptowane
+Judka,                    Karolina           Uczestnik opcjonalny      Zaakceptowane
+Pawełczak,                Jakub              Uczestnik opcjonalny      Odrzucone
+Wileński,                 Daniel             Uczestnik opcjonalny      Wstępna akceptacja
+Kuczewski,                Marcin             Uczestnik opcjonalny      Zaakceptowane
+Korneliuk,                Vitalii            Uczestnik opcjonalny      Zaakceptowane
+Pestka,                   Amadeusz           Uczestnik opcjonalny      Zaakceptowane
+Wyrzykowski,              Przemysław         Uczestnik opcjonalny      Odrzucone
+Bednarz,                  Marek              Uczestnik opcjonalny      Odrzucone
+Marzec,                   Andrzej            Uczestnik opcjonalny      Zaakceptowane
+Rut,                      Łukasz             Uczestnik opcjonalny      Wstępna akceptacja
+Rafało,                   Dominika           Uczestnik opcjonalny      Wstępna akceptacja
+Bieńkowska,               Agnieszka          Uczestnik opcjonalny      Wstępna akceptacja
+Okrojek,                  Aleksandra         Uczestnik opcjonalny      Odrzucone
+Bujak,                    Michał             Uczestnik opcjonalny      Zaakceptowane
+Balwierz,                 Adam               Uczestnik opcjonalny      Odrzucone
+Młynarczyk,               Ewelina            Uczestnik opcjonalny      Wstępna akceptacja
+Malinowska,               Ewelina            Uczestnik opcjonalny      Odrzucone
+Skiba,                    Grzegorz           Uczestnik opcjonalny      Odrzucone
+Kot,                      Kamila             Uczestnik opcjonalny      Odrzucone
+Gontarczyk,               Michał             Uczestnik opcjonalny      Odrzucone
+Cophy,                    Yann               Uczestnik opcjonalny      Zaakceptowane
+Piwowarczyk,              Karol              Uczestnik opcjonalny      Odrzucone
+Wasiewska,                Dominika           Uczestnik opcjonalny      Zaakceptowane
+Wawrzyńczak,              Michał             Uczestnik opcjonalny      Odrzucone
+Kolasiński,               Marcin             Uczestnik opcjonalny      Wstępna akceptacja
+Kopyniecki,               Łukasz             Uczestnik opcjonalny      Zaakceptowane
+Chrzanowski,              Jakub              Uczestnik opcjonalny      Zaakceptowane
+Pióro,                    Alicja             Uczestnik opcjonalny      Odrzucone
+Zygmunt,                  Sylwia             Uczestnik opcjonalny      Odrzucone
+Zwoliński,                Krzysztof          Uczestnik opcjonalny      Wstępna akceptacja
+Klemba,                   Jerzy              Uczestnik opcjonalny      Odrzucone
+Stolc,                    Artur              Uczestnik opcjonalny      Zaakceptowane
+Kurpiel,                  Agnieszka          Uczestnik opcjonalny      Odrzucone
+Bednarczyk,               Zbigniew           Uczestnik opcjonalny      Wstępna akceptacja
+Ehmann,                   Alexander          Uczestnik opcjonalny      Odrzucone
+Wrześniewski,             Michał             Uczestnik opcjonalny      Zaakceptowane
+Trzebiatowski,            Dominik            Uczestnik opcjonalny      Zaakceptowane
+Poels,                    Harrald            Uczestnik opcjonalny      Odrzucone
+Kubale,                   Marcin             Uczestnik opcjonalny      Zaakceptowane
+Rolland,                  Lucrèce            Uczestnik opcjonalny      Odrzucone
+Hesse,                    David              Uczestnik opcjonalny      Odrzucone
+Małyska,                  Arkadiusz          Uczestnik opcjonalny      Wstępna akceptacja
+Adlichhammer,             Andreas            Uczestnik opcjonalny      Odrzucone
+Kędzierski,               Paweł              Uczestnik opcjonalny      Zaakceptowane
+Oszajca,                  Sławomir           Uczestnik opcjonalny      Wstępna akceptacja
+Mężyk,                    Tatiana            Uczestnik opcjonalny      Odrzucone
+Markowska,                Elwira             Uczestnik opcjonalny      Wstępna akceptacja
+Kaczmarek,                Dominik            Uczestnik opcjonalny      Odrzucone
+Seitz,                    Erik               Uczestnik opcjonalny      Wstępna akceptacja
+Szymaniak,                Magdalena          Uczestnik opcjonalny      Wstępna akceptacja
+Labus,                    Kamil              Uczestnik opcjonalny      Zaakceptowane
+Marosz,                   Adrianna           Uczestnik opcjonalny      Wstępna akceptacja
+Kalicki,                  Michał             Uczestnik opcjonalny      Odrzucone
+Szukała,                  Bartosz            Uczestnik opcjonalny      Zaakceptowane
+Ochman,                   Peter              Uczestnik opcjonalny      Odrzucone
+Soroka,                   Maryna             Uczestnik opcjonalny      Odrzucone
+Prachnio-Modelska,        Marzena            Uczestnik opcjonalny      Wstępna akceptacja
+Gałęziewski,              Dawid              Uczestnik opcjonalny      Zaakceptowane
+Lizurek,                  Magdalena          Uczestnik opcjonalny      Zaakceptowane
+Hojniak,                  Michał             Uczestnik opcjonalny      Odrzucone
+Pabijan,                  Bartosz            Uczestnik opcjonalny      Wstępna akceptacja
+Księski,                  Konrad             Uczestnik opcjonalny      Odrzucone
+Lewandowski,              Zbigniew           Uczestnik opcjonalny      Odrzucone
+Menkes,                   Natalia            Uczestnik opcjonalny      Odrzucone
+Lipiński,                 Zbigniew           Uczestnik opcjonalny      Zaakceptowane
+Godlewski,                Artur              Uczestnik opcjonalny      Wstępna akceptacja
+Pawłowska,                Małgorzata         Uczestnik opcjonalny      Zaakceptowane
+Fejfer,                   Patryk             Uczestnik opcjonalny      Wstępna akceptacja
+Stolarek,                 Grzegorz           Uczestnik opcjonalny      Wstępna akceptacja
+Gołębiewski,              Mateusz            Uczestnik opcjonalny      Zaakceptowane
+Miśko,                    Marcin             Uczestnik opcjonalny      Wstępna akceptacja
+Moczarski,                Kacper             Uczestnik opcjonalny      Zaakceptowane
+Michalczuk,               Paweł              Uczestnik opcjonalny      Wstępna akceptacja
+Ciszewska,                Agnieszka          Uczestnik opcjonalny      Wstępna akceptacja
+Roszyk,                   Aleksandra         Uczestnik opcjonalny      Odrzucone
+Lisowska,                 Paulina            Uczestnik opcjonalny      Wstępna akceptacja
+Błażejewska,              Anna               Uczestnik opcjonalny      Odrzucone
+Bacławska,                Anna               Uczestnik opcjonalny      Wstępna akceptacja
+Poświata,                 Sebastian          Uczestnik opcjonalny      Odrzucone
+Kleszczewski,             Przemysław         Uczestnik opcjonalny      Wstępna akceptacja
+Phillips,                 Anokey             Uczestnik opcjonalny      Zaakceptowane
+Jasnos,                   Adrian             Uczestnik opcjonalny      Zaakceptowane
+Jazdończyk,               Sebastian          Uczestnik opcjonalny      Wstępna akceptacja
+Kastunowicz,              Iwona              Uczestnik opcjonalny      Zaakceptowane
+Grotkowska,               Katarzyna          Uczestnik opcjonalny      Odrzucone
+Haweman-Sałapa,           Piotr              Uczestnik opcjonalny      Zaakceptowane
+Gągolski,                 Gabriel            Uczestnik opcjonalny      Zaakceptowane
+Lipetskaya,               Anzhelika          Uczestnik opcjonalny      Wstępna akceptacja
+Hoszman,                  Edyta              Uczestnik opcjonalny      Odrzucone
+Sosnowski,                Radosław           Uczestnik opcjonalny      Zaakceptowane
+Majewski,                 Marcin             Uczestnik opcjonalny      Wstępna akceptacja
+Kubiak,                   Dorota             Uczestnik opcjonalny      Odrzucone
+Jezierska,                Aleksandra         Uczestnik opcjonalny      Wstępna akceptacja
+Różycki,                  Przemysław         Uczestnik opcjonalny      Zaakceptowane
+Pleskacz,                 Katarzyna          Uczestnik opcjonalny      Odrzucone
+Błoch,                    Michał             Uczestnik opcjonalny      Odrzucone
+Krupka,                   Anna               Uczestnik opcjonalny      Odrzucone
+Gurrala,                  Thirupathaiah      Uczestnik opcjonalny      Zaakceptowane
+Arczewski,                Piotr              Uczestnik opcjonalny      Zaakceptowane
+Piotrzkowski,             Bartosz            Uczestnik opcjonalny      Zaakceptowane
+Buczma,                   Piotr              Uczestnik opcjonalny      Zaakceptowane
+Kurkus,                   Pryscylla          Uczestnik opcjonalny      Odrzucone
+Piliszek,                 Marta              Uczestnik opcjonalny      Zaakceptowane
+Wójtowicz,                Maciej             Uczestnik opcjonalny      Odrzucone
+Kozłowski,                Maciej             Uczestnik opcjonalny      Zaakceptowane
+Kłos,                     Filip              Uczestnik opcjonalny      Zaakceptowane
+Łapińska,                 Beata              Uczestnik opcjonalny      Odrzucone
+Gervais,                  Nicolas            Uczestnik opcjonalny      Odrzucone
+Pakuła,                   Artur              Uczestnik opcjonalny      Odrzucone
+Hossain,                  MD  Maruf          Uczestnik opcjonalny      Zaakceptowane
+Kuchczyński,              Marcin             Uczestnik opcjonalny      Zaakceptowane
+Marczyński,               Maciej             Uczestnik opcjonalny      Wstępna akceptacja
+Mariańska,                Małgorzata         Uczestnik opcjonalny      Zaakceptowane
+Denka,                    Michał             Uczestnik opcjonalny      Odrzucone
+Skałecki,                 Krzysztof          Uczestnik opcjonalny      Wstępna akceptacja
+Nowicki,                  Przemysław         Uczestnik opcjonalny      Zaakceptowane
+Lange,                    Andreas            Uczestnik opcjonalny      Odrzucone
+Dworzecki,                Paweł              Uczestnik opcjonalny      Odrzucone
+Klocek,                   Tomasz             Uczestnik opcjonalny      Zaakceptowane
+Pietrzak,                 Kamila             Uczestnik opcjonalny      Wstępna akceptacja
+Misra,                    Shilpa             Uczestnik opcjonalny      Zaakceptowane
+Grzelecka,                Sylwia             Uczestnik opcjonalny      Odrzucone
+Śniecikowska-Winciorek,   Anna               Uczestnik opcjonalny      Wstępna akceptacja
+Gużewski,                 Jacek              Uczestnik opcjonalny      Odrzucone
+Polańska,                 Anna               Uczestnik opcjonalny      Zaakceptowane
+Spólny,                   Kamil              Uczestnik opcjonalny      Wstępna akceptacja
+Ostad,                    Masoud             Uczestnik opcjonalny      Zaakceptowane
+Purgal,                   Łukasz             Uczestnik opcjonalny      Wstępna akceptacja
+Trotsenko,                Denis              Uczestnik opcjonalny      Zaakceptowane
+Haeusgen,                 Joerg              Uczestnik opcjonalny      Wstępna akceptacja
+Jaśnikowska,              Natalia            Uczestnik opcjonalny      Odrzucone
+Leidel,                   Jacek              Uczestnik opcjonalny      Odrzucone
+Smolinski,                Marian             Uczestnik opcjonalny      Odrzucone
+Suchar,                   Marcin             Uczestnik opcjonalny      Wstępna akceptacja
+Grodzicka,                Paulina            Uczestnik opcjonalny      Odrzucone
+Rusin,                    Mirosław           Uczestnik opcjonalny      Wstępna akceptacja
+Szafrański,               Piotr              Uczestnik opcjonalny      Zaakceptowane
+Gąsiorowski,              Patryk             Uczestnik opcjonalny      Zaakceptowane
+Roguski,                  Dominik            Uczestnik opcjonalny      Wstępna akceptacja
+Gąsior,                   Malwina            Uczestnik opcjonalny      Zaakceptowane
+Mizik,                    Marta              Uczestnik opcjonalny      Wstępna akceptacja
+Hildebrand,               Konrad             Uczestnik opcjonalny      Odrzucone
+Kawiorski,                Michał             Uczestnik opcjonalny      Zaakceptowane
+Szkop,                    Jakub              Uczestnik opcjonalny      Wstępna akceptacja
+Holovkov,                 Yevhen             Uczestnik opcjonalny      Zaakceptowane
+Wit,                      Katarzyna          Uczestnik opcjonalny      Odrzucone
+Górnicki,                 Wiktor             Uczestnik opcjonalny      Zaakceptowane
+Ptach,                    Bartłomiej         Uczestnik opcjonalny      Odrzucone
+Woźniak,                  Magdalena          Uczestnik opcjonalny      Zaakceptowane
+Kucharska,                Sylwia             Uczestnik opcjonalny      Zaakceptowane
+Kur,                      Łukasz             Uczestnik opcjonalny      Zaakceptowane
+Megger,                   Damian             Uczestnik opcjonalny      Odrzucone
+Stankiewicz,              Agata              Uczestnik opcjonalny      Wstępna akceptacja
+Gładecka,                 Karolina           Uczestnik opcjonalny      Zaakceptowane
+Jurczyńska,               Dominika           Uczestnik opcjonalny      Odrzucone
+Olszewska,                Izabela            Uczestnik opcjonalny      Odrzucone
+Ochmański,                Piotr              Uczestnik opcjonalny      Zaakceptowane
+Kozicka,                  Justyna            Uczestnik opcjonalny      Wstępna akceptacja
+Słowikowska,              Dorota             Uczestnik opcjonalny      Wstępna akceptacja
+Błaszczyk,                Izabela            Uczestnik opcjonalny      Wstępna akceptacja
+Fok,                      Damian             Uczestnik opcjonalny      Odrzucone
+Adamiec,                  Klaudia            Uczestnik opcjonalny      Odrzucone
+Włoch,                    Edyta              Uczestnik opcjonalny      Odrzucone
+Beger,                    Mikołaj            Uczestnik opcjonalny      Zaakceptowane
+Maciejewski,              Mikołaj            Uczestnik opcjonalny      Odrzucone
+Karge,                    Krzysztof          Uczestnik opcjonalny      Zaakceptowane
+Lotz,                     Maciej             Uczestnik opcjonalny      Wstępna akceptacja
+Szczepkowska,             Blanka             Uczestnik opcjonalny      Odrzucone
+Charadnichenka,           Dzmitry            Uczestnik opcjonalny      Wstępna akceptacja
+Rulko,                    Bartosz            Uczestnik opcjonalny      Zaakceptowane
+Łoza,                     Sylwia             Uczestnik opcjonalny      Odrzucone
+Kwaśnik,                  Tomasz             Uczestnik opcjonalny      Zaakceptowane
+Wojtasik,                 Dominika           Uczestnik opcjonalny      Odrzucone
+Skrzynecki,               Damian             Uczestnik opcjonalny      Odrzucone
+Derkacz,                  Krzysztof          Uczestnik opcjonalny      Zaakceptowane
+Mróz,                     Łukasz             Uczestnik opcjonalny      Wstępna akceptacja
+Byczek,                   Dawid              Uczestnik opcjonalny      Zaakceptowane
+Korwel,                   Małgorzata         Uczestnik opcjonalny      Odrzucone
+Barłoga,                  Lidia              Uczestnik opcjonalny      Odrzucone
+Kolasińska,               Izabela            Uczestnik opcjonalny      Zaakceptowane
+Kwieciński,               Radosław           Uczestnik opcjonalny      Odrzucone
+Goś,                      Mariusz            Uczestnik opcjonalny      Odrzucone
+Bornhold,                 Martin             Uczestnik opcjonalny      Odrzucone
+Bzdęga,                   Anna               Uczestnik opcjonalny      Wstępna akceptacja
+Rowicka,                  Ewa                Uczestnik opcjonalny      Odrzucone
+Śpiewak,                  Agnieszka          Uczestnik opcjonalny      Odrzucone
+Forszewska,               Joanna             Uczestnik opcjonalny      Odrzucone
+Teperek,                  Dariusz            Uczestnik opcjonalny      Odrzucone
+Bryła,                    Krzysztof          Uczestnik opcjonalny      Odrzucone
+Kornecka,                 Milena             Uczestnik opcjonalny      Odrzucone
+Antczak-Szala,            Adriana            Uczestnik opcjonalny      Odrzucone
+Jatkowski,                Jacek              Uczestnik opcjonalny      Odrzucone
+Kołomłocki,               Roger              Uczestnik opcjonalny      Odrzucone
+Potanska,                 Ganna              Uczestnik opcjonalny      Odrzucone
+Socha,                    Marcin             Uczestnik opcjonalny      Odrzucone
+Rejman,                   Beata              Uczestnik opcjonalny      Odrzucone
+Sadowski,                 Marcin             Uczestnik opcjonalny      Odrzucone
+Smolka,                   Andrzej            Uczestnik opcjonalny      Zaakceptowane
+Chołajczyk,               Karol              Uczestnik opcjonalny      Odrzucone
+Juszczyk,                 Roman              Uczestnik opcjonalny      Wstępna akceptacja
+Bąk,                      Beata              Uczestnik opcjonalny      Odrzucone
+Chacewicz,                Marlena            Uczestnik opcjonalny      Odrzucone
+Przybysz,                 Daniel             Uczestnik opcjonalny      Odrzucone
+Ślemp,                    Sabina             Uczestnik opcjonalny      Odrzucone
+Łączyńska,                Edyta              Uczestnik opcjonalny      Odrzucone
+Koval,                    Kateryna           Uczestnik opcjonalny      Odrzucone
+Buszko,                   Aleksandra         Uczestnik opcjonalny      Odrzucone
+Świątek,                  Arkadiusz          Uczestnik opcjonalny      Odrzucone
+Deptuła,                  Marcin             Uczestnik opcjonalny      Zaakceptowane
+Zajdzik,                  Adam               Uczestnik opcjonalny      Odrzucone
+Dąbrowska,                Aleksandra         Uczestnik opcjonalny      Odrzucone
+Wyrzykowski,              Adam               Uczestnik opcjonalny      Wstępna akceptacja
+Hintz,                    Patryk             Uczestnik opcjonalny      Odrzucone
+Dymicki,                  Krzysztof          Uczestnik opcjonalny      Odrzucone
+Serkowski,                Patryk             Uczestnik opcjonalny      Odrzucone
+Jóźwiak,                  Jakub              Uczestnik opcjonalny      Zaakceptowane
+Zakręta,                  Marta              Uczestnik opcjonalny      Odrzucone
+Wójcik,                   Katarzyna          Uczestnik opcjonalny      Odrzucone
+Kozłowska,                Emma               Uczestnik opcjonalny      Wstępna akceptacja
+Jóźwiak,                  Damian             Uczestnik opcjonalny      Zaakceptowane
+Dworzański,               Maciej             Uczestnik opcjonalny      Odrzucone
+Cichosz,                  Ekaterina          Uczestnik opcjonalny      Odrzucone
+Sidorowicz,               Wanda              Uczestnik opcjonalny      Odrzucone
+Orłow,                    Sewer              Uczestnik opcjonalny      Odrzucone
+Pflanz,                   Szymon             Uczestnik opcjonalny      Odrzucone
