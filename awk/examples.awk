@@ -272,3 +272,9 @@ ll | awk '$1 != prev { print; prev = $1 }'
 { for (i = 1; i <= NF; i++) print $i }
 
 /pattern/ { print "something" > "file_name" }
+
+awk '{ w += NF; c += length } { print NR, w, c }'
+
+# remove leading space
+awk '{$1=$1}1' file.txt
+awk '{ $1=$1 }; { print }' file.txt
