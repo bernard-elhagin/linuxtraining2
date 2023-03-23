@@ -1,18 +1,9 @@
-ls -l | awk '$5 > 2000 && $1 !~ /^d/ { print $NF }'
-ll | awk '$3 ~ /bertold/ && $4 !~ /bertold/'
-ll | awk '{ OFS = "|"; print $(NF - 1), $NF }'
-ll | awk '{ OFS = "] ["; print "[" $(NF - 1), $NF "]" }'
-ll | awk '$1 != prev { print; prev = $1 }'
-
 # print lines longer than 80 chars
 awk 'length($0) > 80' input
 
 # print longest line in input
 awk '{ if (length($0) > max) max = length($0) }
     END { print max }' input
-
-# print longest line in input
-awk 'NF > 0' input
 
 # print every line that has at least 1 field
 awk 'NF > 0' input
@@ -272,13 +263,8 @@ SELECTIVE DELETION OF CERTAIN LINES:
  awk '!a[$0]++'                     # most concise script
  awk '!($0 in a) { a[$0]; print }'      # most efficient script
 
-
-REFERENCES:
-
-  "sed & awk, 2nd Edition," by Dale Dougherty and Arnold Robbins (O'Reilly, 1997)
-
-  "UNIX Text Processing," by Dale Dougherty and Tim O'Reilly (Hayden Books, 1987)
-
-  "GAWK: Effective awk Programming," by Arnold D. Robbins (O'Reilly) (http://www.gnu.org/software/gawk/manual/)
-
-  "Mastering Regular Expressions, 3d edition" by Jeffrey Friedl (O'Reilly, 2006).
+ls -l | awk '$5 > 2000 && $1 !~ /^d/ { print $NF }'
+ll | awk '$3 ~ /bertold/ && $4 !~ /bertold/'
+ll | awk '{ OFS = "|"; print $(NF - 1), $NF }'
+ll | awk '{ OFS = "] ["; print "[" $(NF - 1), $NF "]" }'
+ll | awk '$1 != prev { print; prev = $1 }'
