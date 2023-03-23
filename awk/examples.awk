@@ -268,3 +268,7 @@ ll | awk '$3 ~ /bertold/ && $4 !~ /bertold/'
 ll | awk '{ OFS = "|"; print $(NF - 1), $NF }'
 ll | awk '{ OFS = "] ["; print "[" $(NF - 1), $NF "]" }'
 ll | awk '$1 != prev { print; prev = $1 }'
+
+{ for (i = 1; i <= NF; i++) print $i }
+
+/pattern/ { print "something" > "file_name" }
